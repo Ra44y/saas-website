@@ -23,8 +23,8 @@ body {
 }
 
 header {
-  background-color: black;
-  color: #fff;
+  background-color: EFEFEF;
+  color: black;
 }
 
 header h1 {
@@ -35,7 +35,7 @@ header h1 {
 }
 
 nav a {
-  color: white;
+  color: black;
   text-decoration: none;
   white-space: nowrap;
   display: inline-block;
@@ -63,7 +63,7 @@ ul li {
 
 nav a:hover {
   color: #fff;
-  background-color: red;
+  background-color: #54B848;
   padding: .5em .75em;
 }
 
@@ -91,7 +91,7 @@ section {
   width: 100%;
   padding: 1em;
   cursor: pointer;
-  box-shadow: 2px 2px 5px grey;
+  box-shadow: 2px 2px 5px ;
 }
 
 .banner-content h2 {
